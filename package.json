@@ -1,6 +1,6 @@
 {
   "name": "nodelitterbot",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "description": "TypeScript/Node.js client for Whisker Litter-Robot and Feeder-Robot devices (unofficial API)",
   "keywords": [
     "litter-robot",
